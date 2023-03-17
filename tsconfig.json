@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "strict": true,
+    "noImplicitAny": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "build/types",
+    "moduleResolution": "node"
+  }
+}
