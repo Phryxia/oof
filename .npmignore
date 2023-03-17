@@ -1,0 +1,12 @@
+!build
+src
+.editorconfig
+.gitattributes
+.gitignore
+.npmignore
+.prettierrc.json
+rollup-cjs.config.js
+rollup-esm.config.js
+tsconfig.json
+yarn.lock
+.vscode
